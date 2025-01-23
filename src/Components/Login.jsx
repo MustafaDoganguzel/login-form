@@ -10,7 +10,7 @@ const initialForm = {
     password: '',
     terms: false,
 };
-
+// deneme
 const errorMessages = {
     email: 'Please enter a valid email address',
     password: 'Password must be at least 4 characters long',
